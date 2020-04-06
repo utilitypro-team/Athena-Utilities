@@ -1,0 +1,8 @@
+Origin: Athena
+Label: Athena
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: WARNING: THIS REPO IS ONLY TO BE USED WITH THE ATHENA PACKAGE MANAGER, USE WITH ANY OTHER PACKAGE MANAGER MIGHT CAUSE ISSUES.
